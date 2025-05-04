@@ -1,9 +1,0 @@
-body {
-  display: flex;
-  justify-content: center;
-}
-
-.completado {
-  text-decoration: line-through;
-  color: gray;
-}

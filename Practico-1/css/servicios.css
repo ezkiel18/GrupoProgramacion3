@@ -1,0 +1,27 @@
+#servicios{
+    background-color: #000000;
+    padding: 50px 20px;
+    color : rgb(255, 255, 255);
+  }
+  
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color : black;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
